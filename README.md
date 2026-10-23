@@ -1,4 +1,4 @@
-# Stacks and Queues: Array vs Linked List
+# Fundamental Data Structures: Stacks and Queues
 
 ## Files
 
